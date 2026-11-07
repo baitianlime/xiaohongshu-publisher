@@ -1,12 +1,22 @@
-{
-  "true": [
-    "帮我写一篇小红书笔记",
-    "把这个主题写成小红书图文",
-    "写个小红书视频脚本",
-    "小红书种草文案，主题是咖啡机"
-  ],
-  "false": [
-    "帮我把这个文档转成 PDF",
-    "写一篇公众号文章"
-  ]
-}
+[
+  {"query": "帮我写一篇小红书笔记", "should_trigger": true},
+  {"query": "把这个主题写成小红书图文", "should_trigger": true},
+  {"query": "写个小红书视频脚本", "should_trigger": true},
+  {"query": "小红书种草文案，主题是咖啡机", "should_trigger": true},
+  {"query": "优化一下这篇 RED 笔记的标题和标签", "should_trigger": true},
+  {"query": "XHS 探店笔记怎么写，成都火锅", "should_trigger": true},
+  {"query": "帮我改写这段素材成小红书测评", "should_trigger": true},
+  {"query": "写个新手养猫避坑的小红书攻略", "should_trigger": true},
+  {"query": "给我 3 个小红书标题，主题是通勤穿搭", "should_trigger": true},
+  {"query": "Xiaohongshu 笔记正文帮我润色一下", "should_trigger": true},
+  {"query": "帮我把这个文档转成 PDF", "should_trigger": false},
+  {"query": "写一篇公众号文章", "should_trigger": false},
+  {"query": "帮我登录小红书发这篇", "should_trigger": false},
+  {"query": "把这篇笔记翻译成英文", "should_trigger": false},
+  {"query": "分析下我小红书账号的数据", "should_trigger": false},
+  {"query": "写条抖音文案", "should_trigger": false},
+  {"query": "给笔记做封面图", "should_trigger": false},
+  {"query": "帮我写一篇知乎回答", "should_trigger": false},
+  {"query": "发微博吐槽一下今天", "should_trigger": false},
+  {"query": "用 Midjourney 画一张产品图", "should_trigger": false}
+]
