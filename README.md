@@ -85,13 +85,6 @@ echo '{"title":"新手养猫必踩的5个坑","body":"……","tags":["#新手�
 - `evals/evals.json` — 场景与断言（含反编造、硬规则、视频分镜等）
 - `evals/triggers.json` — `{"query","should_trigger"}` 数组，可对接 skill-creator description 优化循环
 
-## GitHub 仓库建议（需你在 Settings 里改）
-
-本技能无法代改仓库简介权限时，请手动设置：
-
-- **Description：** `Xiaohongshu (RED) note draft skill: titles, body, tags, cover copy; no auto-publish.`
-- **Topics：** `xiaohongshu`, `red`, `xhs`, `skill`, `content`, `agent-skills`
-
 ## 许可
 
 MIT © 2026 baitianlime
